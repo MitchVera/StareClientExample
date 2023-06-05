@@ -10,10 +10,11 @@ import axios from 'axios';
 //import stare from 'https://raw.githubusercontent.com/StArE-js/stare.js-client/master/lib/index.js';
 
 //import stare from '@stare.js/stare.js-server';
+import stare from '@stare.js/stare.js-client/lib/index.js';
 
 //import stare from 'https://codesandbox.io/api/v1/sandboxes/mitchvera/stare-js-client/draft/interesting-knuth/lib/index.js';
 
-import stare from './lib/index.js';
+//import stare from './lib/index.js';
 
 const STARE_API_URL = 'https://tz3x5s-3001.csb.app';
 
